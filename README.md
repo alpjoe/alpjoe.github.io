@@ -1,1 +1,0 @@
-# AlpJoe Vlog
