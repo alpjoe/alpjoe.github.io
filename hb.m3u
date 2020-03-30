@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1, CCTV-1
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210102.m3u8
+#EXTINF:-1, CCTV-2
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203602.m3u8
+#EXTINF:-1, CCTV-3
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203802.m3u8
+#EXTINF:-1, CCTV-4
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266302.m3u8
+#EXTINF:-1, CCTV-5
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1, CCTV-7
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510002.m3u8
+#EXTINF:-1, CCTV-8
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203902.m3u8
+#EXTINF:-1, CCTV-9
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499402.m3u8
+#EXTINF:-1, CCTV-10
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203502.m3u8
+#EXTINF:-1, CCTV-11
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204102.m3u8
+#EXTINF:-1, CCTV-12
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202602.m3u8
+#EXTINF:-1, CCTV-13
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
+#EXTINF:-1, CCTV-14
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204402.m3u8
+#EXTINF:-1, CCTV-15
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205002.m3u8
+#EXTINF:-1, CCTV-17
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204202.m3u8
+#EXTINF:-1, CCTV-5+
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
 #EXTINF:-1,CTV1HD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000195.m3u8
 #EXTINF:-1,CCTV2HD
